@@ -326,7 +326,7 @@ bot14 = (
         session_string=STRING_SESSION14,
         plugins=dict(root="Himiko/modules"),
     )
-    if STRING_SESSION4
+    if STRING_SESSION14
     else None
 )
 
